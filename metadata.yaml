@@ -1,0 +1,30 @@
+_repo: The-orchestra-orchestral-music_71345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henderson, W. J. (William James)
+    alias: Henderson, William James
+    birthdate: 1855
+    deathdate: 1937
+    gutenberg_agent_id: '8988'
+    url: http://www.gutenberg.org/2009/agents/8988
+    wikipedia: https://en.wikipedia.org/wiki/William_James_Henderson
+description: ''
+gutenberg_issued: '2023-08-04'
+identifiers:
+  gutenberg: '71345'
+language: en
+pgterms:marc904: https://archive.org/details/orchestraorchest00hend/page/n9/mode/2up
+pgterms:marc905: 20221102130335henderson
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1899, pubdate 1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The orchestra & orchestral music
+url: http://www.gutenberg.org/ebooks/71345
